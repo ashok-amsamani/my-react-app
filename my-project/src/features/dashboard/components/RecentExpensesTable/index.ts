@@ -1,0 +1,1 @@
+export { RecentExpensesTable } from './RecentExpensesTable'
